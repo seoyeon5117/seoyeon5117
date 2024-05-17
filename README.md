@@ -5,6 +5,7 @@
 |기간|역할|프로젝트|
 |:---|:---|:---|
 2024.03.08 - 2024.03.16|FE & PM|[HICC 동아리 박람회 친구 소개 프로젝트](https://github.com/yooooonshine/HongikClubFairProject)|
+2024.04.08 - 2024.05.10|FE|[내외국인을 위한 서울시 약국 찾기 프로젝트](https://github.com/Seoul-Pharmacy/frontend)|
 
 ## 🏫학교 활동
 - 2022.03 홍익대학교 입학(재학 중)
