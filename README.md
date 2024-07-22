@@ -1,4 +1,4 @@
-<h1>$\rm{Hello, World!🖤}$</h1>
+<h2>$\rm{Hello, World!🖤}$</h2>
 홍익대학교 컴퓨터공학과 3학년에 재학 중인 최서연입니다.
 
 ## 🌟프로젝트
@@ -6,6 +6,10 @@
 |:---|:---|:---|
 2024.03.08 - 2024.03.16|FE & PM|[HICC 동아리 박람회 친구 소개 프로젝트](https://github.com/yooooonshine/HongikClubFairProject)|
 2024.04.08 - 2024.05.10|FE|[내외국인을 위한 서울시 약국 찾기 프로젝트](https://github.com/Seoul-Pharmacy/frontend)|
+
+## 🔗배포된 프로젝트
+[내외국인을 위한 서울시 약국 찾기 프로젝트-PharmaSeoul](https://www.pharmaseoul.com/)
+
 
 ## 🏫학교 활동
 - 2022.03 홍익대학교 입학(재학 중)
