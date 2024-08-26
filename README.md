@@ -6,7 +6,7 @@
 |:---|:---|:---|
 2024.03.08 - 2024.03.16|FE & PM|[HICC 동아리 박람회 친구 소개 프로젝트](https://github.com/yooooonshine/HongikClubFairProject)|
 2024.04.08 - 2024.05.10|FE|[내외국인을 위한 서울시 약국 찾기 프로젝트](https://github.com/Seoul-Pharmacy/frontend)|
-2024.07.028 - 2024.08.24|FE & PM|[동아리 주점용 소개팅 프로젝트-Hi, CC!](https://hicc.site)|
+2024.07.28 - 2024.08.24|FE & PM|[동아리 주점용 소개팅 프로젝트-Hi, CC!](https://hicc.site)|
 
 ## 🔗배포된 프로젝트
 [내외국인을 위한 서울시 약국 찾기 프로젝트-PharmaSeoul](https://www.pharmaseoul.com)
