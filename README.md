@@ -4,9 +4,9 @@
 ## 🌟프로젝트
 |기간|역할|프로젝트|
 |:---|:---|:---|
-2024.03.08 - 2024.03.16|FE & PM|[HICC 동아리 박람회 친구 소개 프로젝트](https://github.com/yooooonshine/HongikClubFairProject)|
-2024.04.08 - 2024.05.10|FE|[내외국인을 위한 서울시 약국 찾기 프로젝트](https://github.com/Seoul-Pharmacy/frontend)|
-2024.07.28 - 2024.08.24|FE & PM|[동아리 주점용 소개팅 프로젝트-Hi, CC!](https://hicc.site)|
+2024.03.08 - 2024.03.16|FE & PM|[동아리 박람회 친구 소개 프로젝트 (Hi CC)](https://github.com/yooooonshine/HongikClubFairProject)|
+2024.04.08 - 2024.05.10|FE|[내외국인을 위한 서울시 약국 찾기 프로젝트 (PharmaSeoul)](https://github.com/Seoul-Pharmacy/frontend)|
+2024.07.28 - 2024.08.24|FE & PM|[동아리 주점용 소개팅 프로젝트 (Hi, CC!)](https://hicc.site)|
 
 ## 🔗배포된 프로젝트
 [내외국인을 위한 서울시 약국 찾기 프로젝트-PharmaSeoul](https://www.pharmaseoul.com)
@@ -16,10 +16,10 @@
 
 ## 🏫학교 활동
 - 2022.03 홍익대학교 입학(재학 중)
-- 2024.03~ 홍익대학교 중앙동아리 HICC 기획부장, 학술부원
+- 2024.03 ~ 2024.08 홍익대학교 중앙동아리 HICC 기획부장, 학술부원
   - [프론트엔드 세미나 진행](https://www.youtube.com/watch?v=9LEFdZ8mt3c&list=PLRIm_uMh2qM7KlDVDN90Mpk6_6ijBt6HZ) (HTML, Javascript)
-- 2024.03~ 대학생 연합 IT동아리 코테이토 9기 FE 부원
-- 2024.09~ 대학생 연합 IT동아리 코테이토 10기 기획팀장
+- 2024.03 ~ 대학생 연합 IT동아리 코테이토 9기 FE 부원
+- 2024.09 ~ 대학생 연합 IT동아리 코테이토 10기 기획팀장
 
 ## 🛠️기술 역량
 #### FE
