@@ -15,8 +15,8 @@
 
 
 ## 🏫학교 활동
-- 2022.03 홍익대학교 입학(재학 중)
-- 2024.03 ~ 2024.08 홍익대학교 중앙동아리 HICC 기획부장, 학술부원
+- 2022.03 홍익대학교 입학(재학)
+- 2024.03 ~ 2024.08 홍익대학교 중앙동아리 HICC 기획부장 및 학술부원
   - [프론트엔드 세미나 진행](https://www.youtube.com/watch?v=9LEFdZ8mt3c&list=PLRIm_uMh2qM7KlDVDN90Mpk6_6ijBt6HZ) (HTML, Javascript)
 - 2024.03 ~ 대학생 연합 IT동아리 코테이토 9기 FE 부원
 - 2024.09 ~ 대학생 연합 IT동아리 코테이토 10기 기획팀장
@@ -28,6 +28,3 @@
 - ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 - ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![reactnative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-## ✏️블로그
-https://nocodezone.tistory.com/
