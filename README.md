@@ -7,12 +7,13 @@
 2024.03.08 - 2024.03.16|FE & PM|[동아리 박람회 친구 소개 프로젝트 (Hi CC)](https://github.com/yooooonshine/HongikClubFairProject)|실사용자 500명 이상|
 2024.04.08 - 2024.05.10|FE|[내외국인을 위한 서울시 약국 찾기 프로젝트 (PharmaSeoul)](https://github.com/Seoul-Pharmacy/frontend)||
 2024.07.28 - 2024.08.24|FE & PM|[동아리 주점용 소개팅 프로젝트 (Hi, CC!)](https://github.com/HICC-2024-PROJECT-PRESENTATION-CONTEST/Team3-Frontend)|동아리 내 대상 수상, 실사용자 90명 이상|
+2024.11.01 - |TEAM LEADER & FE|[유학생 커뮤니티 프로젝트 (Kampus)](https://github.com/IT-Cotato/10th-Kampus-FE)|[배포](kampusapp.kro.kr)|
 
 ## 🏫학교 활동
 - 2022.03 홍익대학교 입학(재학)
 - 2024.03 ~ 2024.08 홍익대학교 중앙동아리 HICC(HongIk Computer Club) 기획부장 및 학술부원
   - [프론트엔드 세미나 진행](https://www.youtube.com/watch?v=9LEFdZ8mt3c&list=PLRIm_uMh2qM7KlDVDN90Mpk6_6ijBt6HZ) (HTML, Javascript)
-- 2024.03 ~ 대학생 연합 IT동아리 코테이토 9기 FE 부원
+- 2024.03 ~ 대학생 연합 IT동아리 코테이토 9기, 10기 FE 부원
 - 2024.09 ~ 02 대학생 연합 IT동아리 코테이토 10기 기획팀장
 
 ## 🛠️기술 역량
