@@ -7,7 +7,7 @@
 2024.03.08 - 2024.03.16|FE & PM|[동아리 박람회 친구 소개 프로젝트 (Hi CC)](https://github.com/yooooonshine/HongikClubFairProject)|실사용자 500명 이상|
 2024.04.08 - 2024.05.10|FE|[내외국인을 위한 서울시 약국 찾기 프로젝트 (PharmaSeoul)](https://github.com/Seoul-Pharmacy/frontend)||
 2024.07.28 - 2024.08.24|FE & PM|[동아리 주점용 소개팅 프로젝트 (Hi, CC!)](https://github.com/HICC-2024-PROJECT-PRESENTATION-CONTEST/Team3-Frontend)|동아리 내 대상 수상, 실사용자 90명 이상|
-2024.11.01 - |TEAM LEADER & FE|[유학생 커뮤니티 프로젝트 (Kampus)](https://github.com/IT-Cotato/10th-Kampus-FE)|[배포](kampusapp.kro.kr)|
+2024.11.01 - |TEAM LEADER & FE|[유학생 커뮤니티 프로젝트 (Kampus)](https://github.com/IT-Cotato/10th-Kampus-FE)||
 
 ## 🏫학교 활동
 - 2022.03 홍익대학교 입학(재학)
